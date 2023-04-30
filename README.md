@@ -1,4 +1,4 @@
-# tasbih_app
+# Al Zikr
 
 A new Flutter project.
 
